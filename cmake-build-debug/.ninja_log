@@ -1,10 +1,15 @@
 # ninja log v6
 10	94	7561728862988599	CMakeFiles/Colecci_n_Flujos_C.dir/Matematicas/matematicas.cpp.obj	95efa03fd8a6e66
-23	613	7561769451074075	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
-614	867	7561769456983927	Colecci_n_Flujos_C.exe	5e2225589c64ecf2
-55	302	7561769451404004	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/triangulo.cpp.obj	748b28196356ca9
-48	305	7561769451327776	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/cuadrado.cpp.obj	7affec99e482f67d
-37	320	7561769451225072	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/circulo.cpp.obj	9c8fe600a721e0b2
 28	118	7561776047805184	CMakeFiles/Colecci_n_Flujos_C.dir/Ciencia/fisica.cpp.obj	7eec7260f87923ed
 21	538	7561776047706299	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
 538	1826	7561776052928562	Colecci_n_Flujos_C.exe	f7e0e718c625389d
+55	302	7561769451404004	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/triangulo.cpp.obj	748b28196356ca9
+48	305	7561769451327776	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/cuadrado.cpp.obj	7affec99e482f67d
+37	320	7561769451225072	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/circulo.cpp.obj	9c8fe600a721e0b2
+19	631	7561782708225880	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
+28	898	7561782708321368	CMakeFiles/Colecci_n_Flujos_C.dir/Contenedores/STL_contenedores.cpp.obj	537da1915b33db53
+898	1114	7561782717015050	Colecci_n_Flujos_C.exe	9190094ac29d01bf
+27	734	7561782902378792	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
+734	923	7561782909454521	Colecci_n_Flujos_C.exe	9190094ac29d01bf
+89	646	7561783089848779	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
+647	818	7561783095421230	Colecci_n_Flujos_C.exe	9190094ac29d01bf

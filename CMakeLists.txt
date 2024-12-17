@@ -11,4 +11,6 @@ add_executable(Colecci_n_Flujos_C
         Geometria/cuadrado.cpp
         Geometria/triangulo.cpp
         Ciencia/fisica.cpp
-        Ciencia/ciencia.h)
+        Ciencia/ciencia.h
+        Contenedores/STL_contenedores.h
+        Contenedores/STL_contenedores.cpp)

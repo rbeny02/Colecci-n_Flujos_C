@@ -4,6 +4,7 @@
 #include "Matematicas/matematicas.h"
 #include "Geometria/geometria.h"
 #include "Ciencia/ciencia.h"
+#include "Contenedores/STL_contenedores.h"
 #include <iostream>
 #include <fstream>
 
@@ -12,6 +13,9 @@
 
 int main()
 {
+
+
+
     matematicas::Matematicas mat;
     std::cout << "Suma: " << mat.sumar(2, 3) << std::endl;
     std::cout << "Resta: " << mat.restar(2, 3) << std::endl;
@@ -29,4 +33,9 @@ int main()
     std::cout << "Energia: " << Ciencia::Fisica::calcularEnergia(masa) << std::endl;
 
 
+    vectorOperations();
+    mapOperations();
+    setOperations();
+
+    std::cout << "El texto se guardo correctamente.\n";
 }
