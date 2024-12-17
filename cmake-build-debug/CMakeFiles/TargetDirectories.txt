@@ -1,0 +1,3 @@
+C:/Users/rania/OneDrive/Documenti/GitHub/Colecci-n_Flujos_C/cmake-build-debug/CMakeFiles/Colecci_n_Flujos_C.dir
+C:/Users/rania/OneDrive/Documenti/GitHub/Colecci-n_Flujos_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rania/OneDrive/Documenti/GitHub/Colecci-n_Flujos_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
