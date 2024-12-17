@@ -3,7 +3,9 @@
 //
 #include "Matematicas/matematicas.h"
 #include "Geometria/geometria.h"
+#include "Ciencia/ciencia.h"
 #include <iostream>
+#include <fstream>
 
 
 
@@ -20,4 +22,11 @@ int main()
     std::cout  << "Perimetro del circulo: " << Geometria::calcularPerimetroCirculo(3) << std::endl;
     std::cout  << "Area del cuadrado: " << Geometria::calcularAreaCuadrado(3) << std::endl;
     std::cout  << "Perimetro del cuadrado: " << Geometria::calcularPerimetroCuadrado(3) << std::endl;
+
+
+
+    double masa = 10.0; // kg
+    std::cout << "Energia: " << Ciencia::Fisica::calcularEnergia(masa) << std::endl;
+
+
 }

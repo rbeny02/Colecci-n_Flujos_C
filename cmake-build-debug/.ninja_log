@@ -1,9 +1,10 @@
 # ninja log v6
 10	94	7561728862988599	CMakeFiles/Colecci_n_Flujos_C.dir/Matematicas/matematicas.cpp.obj	95efa03fd8a6e66
-33	451	7561729147051194	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
-451	569	7561729151230214	Colecci_n_Flujos_C.exe	2946b3ce49cbf807
+23	613	7561769451074075	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
+614	867	7561769456983927	Colecci_n_Flujos_C.exe	5e2225589c64ecf2
 55	302	7561769451404004	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/triangulo.cpp.obj	748b28196356ca9
 48	305	7561769451327776	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/cuadrado.cpp.obj	7affec99e482f67d
 37	320	7561769451225072	CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/circulo.cpp.obj	9c8fe600a721e0b2
-23	613	7561769451074075	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
-614	867	7561769456983927	Colecci_n_Flujos_C.exe	5e2225589c64ecf2
+28	118	7561776047805184	CMakeFiles/Colecci_n_Flujos_C.dir/Ciencia/fisica.cpp.obj	7eec7260f87923ed
+21	538	7561776047706299	CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj	b58669074930895b
+538	1826	7561776052928562	Colecci_n_Flujos_C.exe	f7e0e718c625389d

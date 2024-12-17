@@ -79,6 +79,12 @@ build CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/triangulo.cpp.obj: CXX_COMPILE
   OBJECT_DIR = CMakeFiles\Colecci_n_Flujos_C.dir
   OBJECT_FILE_DIR = CMakeFiles\Colecci_n_Flujos_C.dir\Geometria
 
+build CMakeFiles/Colecci_n_Flujos_C.dir/Ciencia/fisica.cpp.obj: CXX_COMPILER__Colecci_n_Flujos_C_unscanned_Debug C$:/Users/rania/OneDrive/Documenti/GitHub/Colecci-n_Flujos_C/Ciencia/fisica.cpp || cmake_object_order_depends_target_Colecci_n_Flujos_C
+  DEP_FILE = CMakeFiles\Colecci_n_Flujos_C.dir\Ciencia\fisica.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Colecci_n_Flujos_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\Colecci_n_Flujos_C.dir\Ciencia
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Colecci_n_Flujos_C
@@ -87,7 +93,7 @@ build CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/triangulo.cpp.obj: CXX_COMPILE
 #############################################
 # Link the executable Colecci_n_Flujos_C.exe
 
-build Colecci_n_Flujos_C.exe: CXX_EXECUTABLE_LINKER__Colecci_n_Flujos_C_Debug CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Matematicas/matematicas.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/circulo.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/cuadrado.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/triangulo.cpp.obj
+build Colecci_n_Flujos_C.exe: CXX_EXECUTABLE_LINKER__Colecci_n_Flujos_C_Debug CMakeFiles/Colecci_n_Flujos_C.dir/main.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Matematicas/matematicas.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/circulo.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/cuadrado.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Geometria/triangulo.cpp.obj CMakeFiles/Colecci_n_Flujos_C.dir/Ciencia/fisica.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Colecci_n_Flujos_C.dir
